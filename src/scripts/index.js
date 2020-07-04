@@ -13,10 +13,14 @@ import '../styles/index.scss';
 // console.log(x);
 
 /************* HELLO D3 WORLD******************/
-import{hello_d3_world} from './Hello_D3World';
-hello_d3_world();
+// import{hello_d3_world} from './Hello_D3World';
+// hello_d3_world();
 
 
 /************* ANIMTED CURVE******************/
 // import {animate_curve} from './AnimateCurve.js';
 // animate_curve();
+
+
+import {draw_scale} from './scales/scales_1.js';
+draw_scale();
