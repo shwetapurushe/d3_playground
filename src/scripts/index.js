@@ -23,4 +23,6 @@ import '../styles/index.scss';
 
 
 import {draw_scale} from './scales/scales_1.js';
-draw_scale();
+import {draw_linear} from './scales/scales_linear.js';
+draw_linear();
+//draw_scale();

@@ -16,7 +16,7 @@ so
 
 0   -- 10  data
 ↓↓↓↓↓↓↓↓
-100 -- 0   coordinate system
+100 -- 0   coordinate system (pixels)
 
 1 data unit
 ↓↓↓↓↓↓↓↓
